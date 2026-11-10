@@ -1,0 +1,5 @@
+compression_tool
+compression_tool.exe
+output/*
+!output/.gitkeep
+*.huff

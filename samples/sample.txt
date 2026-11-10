@@ -1,0 +1,1 @@
+Huffman coding is a lossless data compression algorithm.\nThis sample file is used to test compression and decompression.\n
